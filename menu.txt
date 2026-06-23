@@ -5,7 +5,7 @@ Main menu:
 -sandwich Tuna
 -Mee Goreng
 
-Drinks:
+Drinks Menu:
 -Iced Lemon Tea
 -Kopi O
 -Milo Ais
