@@ -5,4 +5,4 @@ Sandwich Tuna:RM 5.00
 Mee Goreng:RM 4.00
 
 Promotion:
-Launch Set:Nasi Lemak + Iced Lemon Tea =RM 6.50
+Lunch Set:Nasi Lemak + Iced Lemon Tea =RM 6.50
